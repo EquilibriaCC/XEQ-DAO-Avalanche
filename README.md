@@ -1,7 +1,7 @@
 # XEQ-DAO-Avalanche
 The DAO for XEQ on the Avalanche Blockchain
 
-aXEQ Address: https://snowtrace.io/token/0xec1bc1e1e30d6d22e5021959d9812b5dca7e0580
+aXEQ Address: https://snowtrace.io/address/0xe2B99234b102486aD7F9eaDd51e70eFa8f964FDa
 
 aXEQ DAO: 
 
@@ -14,7 +14,7 @@ Features:
 ## Oracle Nodes & Staking
 
 aXEQ Oracle Node Router:
-aXEQ Staking: 
+aXEQ Staking: https://snowtrace.io/address/0x0f1ab924fbad4525578011b102604d3e2f11f9ef
 
 Users can stake 25,000 aXEQ to become a verified data provider on the Equilibria Oracle Network through the Avalanche Adapter.
 
