@@ -21,9 +21,10 @@ Users can stake 25,000 aXEQ to become a verified data provider on the Equilibria
 ## Portal 
 https://portal.equilibria.network for both Ethereum and Avalanche networks coming soon. 
 
-aXEQ<->wXEQ Swap Contract:
+aXEQ<->XEQ Swap Contract:
+https://snowtrace.io/address/0xf0988ddF64144e450Be37F908fA995C386dD0B30
 
-Users can swap between aXEQ<->wXEQ. wXEQ<->XEQ(Native) through upcoming dual deposit/withdrawal on TradeOgre.
+Users can swap between XEQ<->aXEQ.
 
 Features:
 - Swap
